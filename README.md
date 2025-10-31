@@ -4,7 +4,10 @@
 
 🧪 Includes:
 
-✅ Unit, integration, and system testing
+✅ Unit, integration, and system 
+
 🧠 Test case design & coverage criteria
+
 🤖 Automated testing with JUnit and Selenium
+
 🔍 Static & dynamic code analysis
