@@ -1,0 +1,3 @@
+manufacturer,screenSize,price,year,refreshRate,isPremium
+Dell,27,800,2022,144,true
+Samsung,32,900,2021,165,false
